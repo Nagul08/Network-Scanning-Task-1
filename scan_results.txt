@@ -1,0 +1,11 @@
+# Nmap 7.98 scan initiated Thu Nov 13 17:36:12 2025 as: nmap -sS -oN scan_results.txt 172.16.110.185
+Nmap scan report for 172.16.110.xxx
+Host is up (0.00s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+# Nmap done at Thu Nov 13 17:36:13 2025 -- 1 IP address (1 host up) scanned in 0.67 seconds
+
